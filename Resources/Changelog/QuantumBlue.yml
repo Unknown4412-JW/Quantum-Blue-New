@@ -1,4 +1,84 @@
 Entries:
+  - author: MattFright
+    changes:
+      - type: Fix
+        message: Deathmatch is back!
+    id: 188
+    time: '2026-10-24T17:43:46.0000000+00:00'
+    url: https://github.com/QuantumBlueSS14/Quantum-Blue-New/pull/265
+  - author: MattFright
+    changes:
+      - type: Fix
+        message: Borgs can now wear any neck slot items, hurray!
+    id: 187
+    time: '2026-10-24T15:09:58.0000000+00:00'
+    url: https://github.com/QuantumBlueSS14/Quantum-Blue-New/pull/262
+  - author: MattFright
+    changes:
+      - type: Add
+        message: >-
+          Quantum Blue is now hiring personnel for the Derelict "Archon" Grid station! A new micropop station for 1-15
+          pop, featuring labyrinthean maints and the filthiest hallways you've seen.
+    id: 186
+    time: '2026-10-24T07:20:41.0000000+00:00'
+    url: https://github.com/QuantumBlueSS14/Quantum-Blue-New/pull/258
+  - author: MattFright
+    changes:
+      - type: Fix
+        message: Fire alarms are actually gone now.
+    id: 185
+    time: '2026-10-24T07:19:42.0000000+00:00'
+    url: https://github.com/QuantumBlueSS14/Quantum-Blue-New/pull/261
+  - author: MattFright
+    changes:
+      - type: Tweak
+        message: >-
+          Mosquitoes, bees, space bees and butterflies now move more like they're flying and less like they're on two
+          legs, hurray!
+      - type: Tweak
+        message: Mosquitoes now have an idle animation.
+      - type: Fix
+        message: Fixed bees still making a bite animation when attacking.
+    id: 184
+    time: '2026-10-23T22:22:56.0000000+00:00'
+    url: https://github.com/QuantumBlueSS14/Quantum-Blue-New/pull/260
+  - author: rebe83
+    changes:
+      - type: Tweak
+        message: Pleebnar organs are now slightly hallucinogenic.
+    id: 183
+    time: '2026-10-23T22:19:30.0000000+00:00'
+    url: https://github.com/QuantumBlueSS14/Quantum-Blue-New/pull/254
+  - author: soup4food
+    changes:
+      - type: Remove
+        message: A slasher spawner that did nothing
+    id: 182
+    time: '2026-10-23T22:14:35.0000000+00:00'
+    url: https://github.com/QuantumBlueSS14/Quantum-Blue-New/pull/252
+  - author: rebe83
+    changes:
+      - type: Tweak
+        message: Cobra toxic and tranq ammo do slightly less damage.
+    id: 181
+    time: '2026-10-23T22:12:11.0000000+00:00'
+    url: https://github.com/QuantumBlueSS14/Quantum-Blue-New/pull/251
+  - author: rebe83
+    changes:
+      - type: Tweak
+        message: Bananium crabs and refined bananium is now radioactive, much more than uranium.
+    id: 180
+    time: '2026-10-23T22:06:17.0000000+00:00'
+    url: https://github.com/QuantumBlueSS14/Quantum-Blue-New/pull/249
+  - author: rebe83
+    changes:
+      - type: Add
+        message: Security cyborgs / eggs have arrived, as well as 6 security-exclusive modules for them.
+      - type: Add
+        message: Investigation research has been added, making forensic chalk and evidence marker boxes printable.
+    id: 179
+    time: '2026-10-23T21:47:21.0000000+00:00'
+    url: https://github.com/QuantumBlueSS14/Quantum-Blue-New/pull/242
   - author: rebe83
     changes:
       - type: Tweak
